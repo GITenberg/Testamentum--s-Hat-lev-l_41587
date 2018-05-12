@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39589
     wikipedia: http://hu.wikipedia.org/wiki/Benedek_Elek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41587#Testamentum--s-Hat-lev-l
 gutenberg_issued: '2012-12-09'
 gutenberg_type: Text
 identifiers:
